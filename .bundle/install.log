@@ -1,0 +1,21 @@
+# Logfile created on 2013-12-27 17:47:05 +0800 by logger.rb/36483
+I, [2013-12-27T17:47:05.368353 #22154]  INFO -- : 0:  rake (10.1.1) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/rake-10.1.1.gemspec
+I, [2013-12-27T17:47:06.465167 #22154]  INFO -- : 0:  i18n (0.6.9) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/i18n-0.6.9.gemspec
+I, [2013-12-27T17:47:07.572309 #22154]  INFO -- : 0:  minitest (4.7.5) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/minitest-4.7.5.gemspec
+I, [2013-12-27T17:47:08.519991 #22154]  INFO -- : 0:  multi_json (1.8.2) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/multi_json-1.8.2.gemspec
+I, [2013-12-27T17:47:13.159373 #22154]  INFO -- : 0:  atomic (1.1.14) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/atomic-1.1.14.gemspec
+I, [2013-12-27T17:47:14.461189 #22154]  INFO -- : 0:  thread_safe (0.1.3) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/thread_safe-0.1.3.gemspec
+I, [2013-12-27T17:47:17.259784 #22154]  INFO -- : 0:  tzinfo (0.3.38) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/tzinfo-0.3.38.gemspec
+I, [2013-12-27T17:47:20.060246 #22154]  INFO -- : 0:  activesupport (4.0.2) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/activesupport-4.0.2.gemspec
+I, [2013-12-27T17:47:21.105956 #22154]  INFO -- : 0:  builder (3.1.4) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/builder-3.1.4.gemspec
+I, [2013-12-27T17:47:22.178533 #22154]  INFO -- : 0:  activemodel (4.0.2) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/activemodel-4.0.2.gemspec
+I, [2013-12-27T17:47:23.003530 #22154]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2013-12-27T17:47:24.155402 #22154]  INFO -- : 0:  arel (4.0.1) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/arel-4.0.1.gemspec
+I, [2013-12-27T17:47:26.065218 #22154]  INFO -- : 0:  activerecord (4.0.2) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/activerecord-4.0.2.gemspec
+I, [2013-12-27T17:47:27.070896 #22154]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/diff-lcs-1.2.5.gemspec
+I, [2013-12-27T17:47:30.884969 #22154]  INFO -- : 0:  mysql2 (0.3.14) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/mysql2-0.3.14.gemspec
+I, [2013-12-27T17:47:32.775334 #22154]  INFO -- : 0:  rspec-core (2.14.7) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/rspec-core-2.14.7.gemspec
+I, [2013-12-27T17:47:33.912895 #22154]  INFO -- : 0:  rspec-expectations (2.14.4) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/rspec-expectations-2.14.4.gemspec
+I, [2013-12-27T17:47:36.494327 #22154]  INFO -- : 0:  rspec-mocks (2.14.4) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/rspec-mocks-2.14.4.gemspec
+I, [2013-12-27T17:47:37.412134 #22154]  INFO -- : 0:  rspec (2.14.1) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/rspec-2.14.1.gemspec
+I, [2013-12-27T17:47:37.412623 #22154]  INFO -- : 0:  bundler (1.5.0) from /Users/menxu/.rvm/gems/ruby-2.0.0-p247@columsroles/specifications/bundler-1.5.0.gemspec

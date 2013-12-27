@@ -20,7 +20,7 @@ module ColumnsRoles
             }
           end
 
-          def roles?(role)
+          def role?(role)
             self.roles.include? role.to_sym
           end
 
@@ -37,7 +37,9 @@ module ColumnsRoles
           end
 
           scope :with_role, lambda{ |role|
-            :conditions => ["#{column} & ? > 0", 2 ** #{roles}.index(role.to_sym)]
+            {
+              :conditions => ['#{column} & ? > 0', 2 ** #{roles}.index(role.to_sym)]
+            }
           }
         )
         roles.each{ |role|
