@@ -5,7 +5,7 @@ To add simple roles feature to a model (like user) in a integer field.
 include in Gemfile:
 
 ```bash
-gem 'roles-field'
+gem 'columns-roles'
 ```
 
 ## Usage
